@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ECUDataLogFile>
+	<Header LogName="RecordSession" Duration="10828" _Type="STATIC" CaptureTime="163875" VehicleName="T9" VehicleLabel="308" ECUName="ESP90" ECULabel="ESP90"/>
+	<Channel>
+		<ChannelHeader Id="0" Mnemo="MP_APPUI_PEDALE_FREIN_RECALCULE" Label="@P35557-POLUXDATA" _Type="FLOAT" Unit="" MinVal="-340282346638528860000000000000000000000.000000" MaxVal="340282346638528860000000000000000000000.000000">
+			<DiscreteLegend>
+				<DiscreteValue Label="@P7279-POLUXDATA" MinVal="0.000000" MaxVal="0.000000"/>
+				<DiscreteValue Label="@P11624-POLUXDATA" MinVal="1.000000" MaxVal="1.000000"/>
+				<DiscreteValue Label="@P25212-POLUXDATA" MinVal="2.000000" MaxVal="2.000000"/>
+				<DiscreteValue Label="@P23181-POLUXDATA" MinVal="3.000000" MaxVal="3.000000"/>
+			</DiscreteLegend>
+		</ChannelHeader>
+		<Points>
+			<Point Value="0.000000" Timestamp="0"/>
+			<Point Value="0.000000" Timestamp="969"/>
+			<Point Value="0.000000" Timestamp="1344"/>
+			<Point Value="0.000000" Timestamp="1657"/>
+			<Point Value="0.000000" Timestamp="2047"/>
+			<Point Value="0.000000" Timestamp="2516"/>
+			<Point Value="0.000000" Timestamp="2875"/>
+			<Point Value="0.000000" Timestamp="3235"/>
+			<Point Value="0.000000" Timestamp="3703"/>
+			<Point Value="0.000000" Timestamp="4047"/>
+			<Point Value="0.000000" Timestamp="4422"/>
+			<Point Value="0.000000" Timestamp="4891"/>
+			<Point Value="0.000000" Timestamp="5219"/>
+			<Point Value="0.000000" Timestamp="5641"/>
+			<Point Value="0.000000" Timestamp="5938"/>
+			<Point Value="0.000000" Timestamp="6469"/>
+			<Point Value="0.000000" Timestamp="6828"/>
+			<Point Value="0.000000" Timestamp="7188"/>
+			<Point Value="0.000000" Timestamp="7547"/>
+			<Point Value="0.000000" Timestamp="8063"/>
+			<Point Value="0.000000" Timestamp="8469"/>
+			<Point Value="0.000000" Timestamp="8907"/>
+			<Point Value="0.000000" Timestamp="9172"/>
+			<Point Value="0.000000" Timestamp="9657"/>
+			<Point Value="0.000000" Timestamp="9953"/>
+			<Point Value="0.000000" Timestamp="10453"/>
+			<Point Value="0.000000" Timestamp="10828"/>
+		</Points>
+	</Channel>
+	<Channel>
+		<ChannelHeader Id="1" Mnemo="MP_CONTACTEUR_FEUX_STOP" Label="@P12701-POLUXDATA" _Type="FLOAT" Unit="" MinVal="-340282346638528860000000000000000000000.000000" MaxVal="340282346638528860000000000000000000000.000000">
+			<DiscreteLegend>
+				<DiscreteValue Label="@P790-POLUXDATA" MinVal="0.000000" MaxVal="0.000000"/>
+				<DiscreteValue Label="@P15755-POLUXDATA" MinVal="1.000000" MaxVal="1.000000"/>
+			</DiscreteLegend>
+		</ChannelHeader>
+		<Points>
+			<Point Value="0.000000" Timestamp="0"/>
+			<Point Value="0.000000" Timestamp="969"/>
+			<Point Value="0.000000" Timestamp="1344"/>
+			<Point Value="0.000000" Timestamp="1657"/>
+			<Point Value="0.000000" Timestamp="2047"/>
+			<Point Value="0.000000" Timestamp="2516"/>
+			<Point Value="0.000000" Timestamp="2875"/>
+			<Point Value="0.000000" Timestamp="3235"/>
+			<Point Value="0.000000" Timestamp="3703"/>
+			<Point Value="0.000000" Timestamp="4047"/>
+			<Point Value="0.000000" Timestamp="4422"/>
+			<Point Value="0.000000" Timestamp="4891"/>
+			<Point Value="0.000000" Timestamp="5219"/>
+			<Point Value="0.000000" Timestamp="5641"/>
+			<Point Value="0.000000" Timestamp="5938"/>
+			<Point Value="0.000000" Timestamp="6469"/>
+			<Point Value="0.000000" Timestamp="6828"/>
+			<Point Value="0.000000" Timestamp="7188"/>
+			<Point Value="0.000000" Timestamp="7547"/>
+			<Point Value="0.000000" Timestamp="8063"/>
+			<Point Value="0.000000" Timestamp="8469"/>
+			<Point Value="0.000000" Timestamp="8907"/>
+			<Point Value="0.000000" Timestamp="9172"/>
+			<Point Value="0.000000" Timestamp="9657"/>
+			<Point Value="0.000000" Timestamp="9953"/>
+			<Point Value="0.000000" Timestamp="10453"/>
+			<Point Value="0.000000" Timestamp="10828"/>
+		</Points>
+	</Channel>
+	<Channel>
+		<ChannelHeader Id="2" Mnemo="MP_ETAT_DU_FREINAGE" Label="@P15190-POLUXDATA" _Type="FLOAT" Unit="" MinVal="-340282346638528860000000000000000000000.000000" MaxVal="340282346638528860000000000000000000000.000000">
+			<DiscreteLegend>
+				<DiscreteValue Label="@P19757-POLUXDATA" MinVal="0.000000" MaxVal="0.000000"/>
+				<DiscreteValue Label="@P2136-POLUXDATA@T(@P32253-POLUXDATA@T)" MinVal="1.000000" MaxVal="1.000000"/>
+				<DiscreteValue Label="@P6077-POLUXDATA" MinVal="2.000000" MaxVal="2.000000"/>
+				<DiscreteValue Label="@P2136-POLUXDATA@T(@P32252-POLUXDATA@T)" MinVal="3.000000" MaxVal="3.000000"/>
+			</DiscreteLegend>
+		</ChannelHeader>
+		<Points>
+			<Point Value="0.000000" Timestamp="0"/>
+			<Point Value="0.000000" Timestamp="969"/>
+			<Point Value="0.000000" Timestamp="1344"/>
+			<Point Value="0.000000" Timestamp="1657"/>
+			<Point Value="0.000000" Timestamp="2047"/>
+			<Point Value="0.000000" Timestamp="2516"/>
+			<Point Value="0.000000" Timestamp="2875"/>
+			<Point Value="0.000000" Timestamp="3235"/>
+			<Point Value="0.000000" Timestamp="3703"/>
+			<Point Value="0.000000" Timestamp="4047"/>
+			<Point Value="0.000000" Timestamp="4422"/>
+			<Point Value="0.000000" Timestamp="4891"/>
+			<Point Value="0.000000" Timestamp="5219"/>
+			<Point Value="0.000000" Timestamp="5641"/>
+			<Point Value="0.000000" Timestamp="5938"/>
+			<Point Value="0.000000" Timestamp="6469"/>
+			<Point Value="0.000000" Timestamp="6828"/>
+			<Point Value="0.000000" Timestamp="7188"/>
+			<Point Value="0.000000" Timestamp="7547"/>
+			<Point Value="0.000000" Timestamp="8063"/>
+			<Point Value="0.000000" Timestamp="8469"/>
+			<Point Value="0.000000" Timestamp="8907"/>
+			<Point Value="0.000000" Timestamp="9172"/>
+			<Point Value="0.000000" Timestamp="9657"/>
+			<Point Value="0.000000" Timestamp="9953"/>
+			<Point Value="0.000000" Timestamp="10453"/>
+			<Point Value="0.000000" Timestamp="10828"/>
+		</Points>
+	</Channel>
+	<Channel>
+		<ChannelHeader Id="3" Mnemo="MP_ETAT_RELAIS_ALIMENTATION_EV" Label="@P5399-POLUXDATA" _Type="FLOAT" Unit="" MinVal="-340282346638528860000000000000000000000.000000" MaxVal="340282346638528860000000000000000000000.000000">
+			<DiscreteLegend>
+				<DiscreteValue Label="@F5046-POLUXDATA" MinVal="0.000000" MaxVal="0.000000"/>
+				<DiscreteValue Label="@P24780-POLUXDATA" MinVal="1.000000" MaxVal="1.000000"/>
+			</DiscreteLegend>
+		</ChannelHeader>
+		<Points>
+			<Point Value="1.000000" Timestamp="0"/>
+			<Point Value="1.000000" Timestamp="969"/>
+			<Point Value="1.000000" Timestamp="1344"/>
+			<Point Value="1.000000" Timestamp="1657"/>
+			<Point Value="1.000000" Timestamp="2047"/>
+			<Point Value="1.000000" Timestamp="2516"/>
+			<Point Value="1.000000" Timestamp="2875"/>
+			<Point Value="1.000000" Timestamp="3235"/>
+			<Point Value="1.000000" Timestamp="3703"/>
+			<Point Value="1.000000" Timestamp="4047"/>
+			<Point Value="1.000000" Timestamp="4422"/>
+			<Point Value="1.000000" Timestamp="4891"/>
+			<Point Value="1.000000" Timestamp="5219"/>
+			<Point Value="1.000000" Timestamp="5641"/>
+			<Point Value="1.000000" Timestamp="5938"/>
+			<Point Value="1.000000" Timestamp="6469"/>
+			<Point Value="1.000000" Timestamp="6828"/>
+			<Point Value="1.000000" Timestamp="7188"/>
+			<Point Value="1.000000" Timestamp="7547"/>
+			<Point Value="1.000000" Timestamp="8063"/>
+			<Point Value="1.000000" Timestamp="8469"/>
+			<Point Value="1.000000" Timestamp="8907"/>
+			<Point Value="1.000000" Timestamp="9172"/>
+			<Point Value="1.000000" Timestamp="9657"/>
+			<Point Value="1.000000" Timestamp="9953"/>
+			<Point Value="1.000000" Timestamp="10453"/>
+			<Point Value="1.000000" Timestamp="10828"/>
+		</Points>
+	</Channel>
+	<Channel>
+		<ChannelHeader Id="4" Mnemo="MP_ETAT_RELAIS_POMPE_RECIRCULATION" Label="@P10518-POLUXDATA" _Type="FLOAT" Unit="" MinVal="-340282346638528860000000000000000000000.000000" MaxVal="340282346638528860000000000000000000000.000000">
+			<DiscreteLegend>
+				<DiscreteValue Label="@P33402-POLUXDATA" MinVal="0.000000" MaxVal="0.000000"/>
+				<DiscreteValue Label="@P33403-POLUXDATA" MinVal="1.000000" MaxVal="1.000000"/>
+			</DiscreteLegend>
+		</ChannelHeader>
+		<Points>
+			<Point Value="0.000000" Timestamp="0"/>
+			<Point Value="0.000000" Timestamp="969"/>
+			<Point Value="0.000000" Timestamp="1344"/>
+			<Point Value="0.000000" Timestamp="1657"/>
+			<Point Value="0.000000" Timestamp="2047"/>
+			<Point Value="0.000000" Timestamp="2516"/>
+			<Point Value="0.000000" Timestamp="2875"/>
+			<Point Value="0.000000" Timestamp="3235"/>
+			<Point Value="0.000000" Timestamp="3703"/>
+			<Point Value="0.000000" Timestamp="4047"/>
+			<Point Value="0.000000" Timestamp="4422"/>
+			<Point Value="0.000000" Timestamp="4891"/>
+			<Point Value="0.000000" Timestamp="5219"/>
+			<Point Value="0.000000" Timestamp="5641"/>
+			<Point Value="0.000000" Timestamp="5938"/>
+			<Point Value="0.000000" Timestamp="6469"/>
+			<Point Value="0.000000" Timestamp="6828"/>
+			<Point Value="0.000000" Timestamp="7188"/>
+			<Point Value="0.000000" Timestamp="7547"/>
+			<Point Value="0.000000" Timestamp="8063"/>
+			<Point Value="0.000000" Timestamp="8469"/>
+			<Point Value="0.000000" Timestamp="8907"/>
+			<Point Value="0.000000" Timestamp="9172"/>
+			<Point Value="0.000000" Timestamp="9657"/>
+			<Point Value="0.000000" Timestamp="9953"/>
+			<Point Value="0.000000" Timestamp="10453"/>
+			<Point Value="0.000000" Timestamp="10828"/>
+		</Points>
+	</Channel>
+	<Channel>
+		<ChannelHeader Id="5" Mnemo="MP_PRESSION_DE_FREINAGE" Label="@P9084-POLUXDATA" _Type="FLOAT" Unit="@F5516-POLUXDATA" MinVal="-340282346638528860000000000000000000000.000000" MaxVal="340282346638528860000000000000000000000.000000">
+			<DiscreteLegend>
+				<DiscreteValue Label="@V" MinVal="0.000000" MaxVal="255.000000"/>
+				<DiscreteValue Label="@P8038-POLUXDATA" MinVal="255.000000" MaxVal="255.000000"/>
+			</DiscreteLegend>
+		</ChannelHeader>
+		<Points>
+			<Point Value="254.000000" Timestamp="0"/>
+			<Point Value="254.000000" Timestamp="969"/>
+			<Point Value="254.000000" Timestamp="1344"/>
+			<Point Value="254.000000" Timestamp="1657"/>
+			<Point Value="254.000000" Timestamp="2047"/>
+			<Point Value="254.000000" Timestamp="2516"/>
+			<Point Value="254.000000" Timestamp="2875"/>
+			<Point Value="254.000000" Timestamp="3235"/>
+			<Point Value="254.000000" Timestamp="3703"/>
+			<Point Value="254.000000" Timestamp="4047"/>
+			<Point Value="254.000000" Timestamp="4422"/>
+			<Point Value="254.000000" Timestamp="4891"/>
+			<Point Value="254.000000" Timestamp="5219"/>
+			<Point Value="254.000000" Timestamp="5641"/>
+			<Point Value="254.000000" Timestamp="5938"/>
+			<Point Value="254.000000" Timestamp="6469"/>
+			<Point Value="254.000000" Timestamp="6828"/>
+			<Point Value="254.000000" Timestamp="7188"/>
+			<Point Value="254.000000" Timestamp="7547"/>
+			<Point Value="254.000000" Timestamp="8063"/>
+			<Point Value="254.000000" Timestamp="8469"/>
+			<Point Value="254.000000" Timestamp="8907"/>
+			<Point Value="254.000000" Timestamp="9172"/>
+			<Point Value="254.000000" Timestamp="9657"/>
+			<Point Value="254.000000" Timestamp="9953"/>
+			<Point Value="254.000000" Timestamp="10453"/>
+			<Point Value="254.000000" Timestamp="10828"/>
+		</Points>
+	</Channel>
+</ECUDataLogFile>
+
+
